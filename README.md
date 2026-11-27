@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**atlasbuilds-dev/atlasbuilds-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Atlas.dev
 
-Here are some ideas to get you started:
+### Building websites, applications and experimental AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to Atlas.dev — a development brand focused on turning ideas into working digital experiences.
+
+## 🚀 Projects
+
+**PhoneOS**
+
+A browser-based phone environment with interactive applications and games.
+
+[Explore PhoneOS](https://phoneos-site-full-2.vercel.app/)
+
+**BoardNotes Live**
+
+A collaborative classroom application with live board sharing and accessibility features.
+
+[Explore BoardNotes](https://boardnotes-v3.vercel.app/)
+
+**Atlas AI**
+
+An experimental AI project exploring memory, specialist models and coordinated AI systems.
+
+[Explore Atlas](https://atlasofficialwebsite-1.vercel.app/)
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+- Web development
+- AI experimentation
+
+---
+
+**Atlas.dev — Ideas into working products.**
